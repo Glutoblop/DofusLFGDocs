@@ -34,4 +34,4 @@ After the event, make sure to commend your community members. Give each other pr
 
 
 --------------------------------------
-[<img src="https://images2.imgbox.com/1e/af/5YOLnqLf_o.png" width=50>](https://twitter.come/Glutoblop) [<img src="https://images2.imgbox.com/9e/6e/s5Llp32o_o.png" width=50>](https://twitter.come/Glutoblop) 
+[<img src="https://images2.imgbox.com/1e/af/5YOLnqLf_o.png" width=50>](https://twitter.com/Glutoblop) [<img src="https://images2.imgbox.com/9e/6e/s5Llp32o_o.png" width=50>](https://www.buymeacoffee.com/glutoblop) 
