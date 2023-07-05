@@ -9,27 +9,27 @@ No longer will spamming /r to hope someone else can see your requests for help. 
 ## Creating Events
 
 Start the process of creating an event by entering the `/createevent` command on a Discord with DofusLFG active.  
-<img src="https://images2.imgbox.com/c8/93/bofptwV5_o.gif" width=500>
+<img src="https://images2.imgbox.com/c8/93/bofptwV5_o.gif" width=700>
   
 Then follow the steps to build the event you want!  
-<img src="https://images2.imgbox.com/3f/60/a5jSLXL7_o.gif" width=500> 
+<img src="https://images2.imgbox.com/3f/60/a5jSLXL7_o.gif" width=700> 
   
 How many people do you need to help you?  
-<img src="https://images2.imgbox.com/cd/4f/hTxzY8J9_o.gif" width=500>  
+<img src="https://images2.imgbox.com/cd/4f/hTxzY8J9_o.gif" width=700>  
   
  When do you want to start your event? Using DofusTime to help everyone stay synced.  
-<img src="https://images2.imgbox.com/ef/f1/WEzILqkX_o.gif" width=500>
+<img src="https://images2.imgbox.com/ef/f1/WEzILqkX_o.gif" width=700>
  
  Publish your event back to the Discord community you created it from!  
- <img src="https://images2.imgbox.com/63/fe/eTnYZvym_o.gif" width=500>  
+ <img src="https://images2.imgbox.com/63/fe/eTnYZvym_o.gif" width=700>  
    
  By default it will show up in the `lfg-events` channel:  
-  <img src="https://images2.imgbox.com/50/16/oO4tu5Vw_o.gif" width=500>
+  <img src="https://images2.imgbox.com/50/16/oO4tu5Vw_o.gif" width=700>
   
  
  ### Commendations
 After the event, make sure to commend your community members. Give each other praise for helping out!   
- <img src="https://images2.imgbox.com/40/d4/5e15P9FO_o.gif" width=500>
+ <img src="https://images2.imgbox.com/40/d4/5e15P9FO_o.gif" width=700>
 
 
 
