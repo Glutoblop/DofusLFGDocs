@@ -11,7 +11,7 @@ No longer will spamming /r to hope someone else can see your requests for help. 
 Start the process of creating an event by entering the `/createevent` command on a Discord with DofusLFG active.  
 <img src="https://images2.imgbox.com/c8/93/bofptwV5_o.gif" width=500>
   
-Then follow the steps to build the event you want!
+Then follow the steps to build the event you want!  
 <img src="https://images2.imgbox.com/3f/60/a5jSLXL7_o.gif" width=500> 
   
 How many people do you need to help you?  
@@ -28,7 +28,7 @@ How many people do you need to help you?
   
  
  ### Commendations
-After the event, make sure to commend your community members. Give each other praise for helping out!  
+After the event, make sure to commend your community members. Give each other praise for helping out!   
  <img src="https://images2.imgbox.com/40/d4/5e15P9FO_o.gif" width=500>
 
 
