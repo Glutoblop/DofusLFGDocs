@@ -2,7 +2,7 @@
 Organise ingame Dofus activities with your Discord community, set the time, details and description of the type of help you want. 
 Let other Discord members jump in to help you out.  
 
-[<img src="https://i.imgur.com/gPdFMIN.png" width=300>](https://discord.com/api/oauth2/authorize?client_id=1112419871557431297&permissions=2415946832&scope=bot)
+[<img src="https://i.imgur.com/gPdFMIN.png" width=300>](https://discord.com/api/oauth2/authorize?client_id=1112419871557431297&permissions=2415938640&scope=bot)
 
 No longer will spamming /r to hope someone else can see your requests for help. Now just schedule an event for the time you will be on, and anyone else who is available at that time can hop in and join you!   
 
@@ -30,3 +30,8 @@ How many people do you need to help you?
  ### Commendations
 After the event, make sure to commend your community members. Give each other praise for helping out!  
  <img src="https://images2.imgbox.com/40/d4/5e15P9FO_o.gif" width=500>
+
+
+
+--------------------------------------
+[<img src="https://images2.imgbox.com/1e/af/5YOLnqLf_o.png" width=50>](https://twitter.come/Glutoblop) [<img src="https://images2.imgbox.com/9e/6e/s5Llp32o_o.png" width=50>](https://twitter.come/Glutoblop) 
