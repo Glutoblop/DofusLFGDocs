@@ -1,4 +1,4 @@
-# Dofus LFG Discord Bot ![DofusLFG](https://i.imgur.com/nnCg0lD.png)
+# Dofus LFG Discord Bot ![DofusLFG](https://i.imgur.com/CuB4nUc.png)
 Organise ingame Dofus activities with your Discord community, set the time, details and description of the type of help you want. 
 Let other Discord members jump in to help you out.  
 
