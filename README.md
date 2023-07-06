@@ -13,7 +13,7 @@ There are 2 steps to using DofusLFG, the first step is to use the `/register` co
   After this we have an optional process of *Linking* your Discord account to each Ankama account you have Dofus Characters on.    
 
       // IMPORTANT - NOTICE 
-      This process does not require you to give DofusLFG *any* of your Ankama/Dofus login information.  
+      This process does not require you to give DofusLFG any of your Ankama/Dofus login information.  
       If anyone ever asks for your login information they are only trying to steal your accounts. 
       Never give your account information away.  
 
