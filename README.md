@@ -6,6 +6,20 @@ Let other Discord members jump in to help you out.
 
 No longer will spamming /r to hope someone else can see your requests for help. Now just schedule an event for the time you will be on, and anyone else who is available at that time can hop in and join you!   
 
+## Registering To DofusLFG
+There are 2 steps to using DofusLFG, the first step is to use the `/register` command, this will tell DofusLFG that your discord account exists.  
+<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Register.gif" width=700>  
+  
+  After this we have an optional process of *Linking* your Discord account to each Ankama account you have Dofus Characters on.    
+
+      // IMPORTANT - NOTICE 
+      This process does not require you to give DofusLFG *any* of your Ankama/Dofus login information.  
+      If anyone ever asks for your login information they are only trying to steal your accounts. 
+      Never give your account information away.  
+
+Ankama do not provide an API, the only way for us to confirm that you own the Ankama account you are telling us  you own is to get you to add a unique code, DofusLFG walks you through this process: 
+<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Linking.gif" width=700>
+
 ## Creating Events
 
 Start the process of creating an event by entering the `/createevent` command on a Discord with DofusLFG active.  
