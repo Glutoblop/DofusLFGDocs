@@ -8,6 +8,7 @@ No longer will spamming /r to hope someone else can see your requests for help. 
 
 ## Registering To DofusLFG
 There are 2 steps to using DofusLFG, the first step is to use the `/register` command, this will tell DofusLFG that your discord account exists.  
+  
 <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Register.gif" width=700>  
   
   After this we have an optional process of *Linking* your Discord account to each Ankama account you have Dofus Characters on.    
@@ -17,32 +18,40 @@ There are 2 steps to using DofusLFG, the first step is to use the `/register` co
       If anyone ever asks for your login information they are only trying to steal your accounts. 
       Never give your account information away.  
 
-Ankama do not provide an API, the only way for us to confirm that you own the Ankama account you are telling us  you own is to get you to add a unique code, DofusLFG walks you through this process: 
+Ankama do not provide an API, the only way for us to confirm that you own the Ankama account you are telling us  you own is to get you to add a unique code, DofusLFG walks you through this process:   
+  
 <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Linking.gif" width=700>
 
 ## Creating Events
 
 Start the process of creating an event by entering the `/createevent` command on a Discord with DofusLFG active.  
+  
 <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/CreateEvent.gif" width=700>
   
 Then follow the steps to build the event you want!  
+  
 <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/FillOutTheForm.gif" width=700> 
   
 How many people do you need to help you?  
+  
 <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Add_Players.gif" width=700>  
   
  When do you want to start your event? Using DofusTime to help everyone stay synced.  
+   
 <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Set_Time.gif" width=700>
  
  Publish your event back to the Discord community you created it from!  
+   
  <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Publish_Event.gif" width=700>  
    
  By default it will show up in the `lfg-events` channel:  
+   
   <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Add_To_Event.gif" width=700>
   
  
  ### Commendations
 After the event, make sure to commend your community members. Give each other praise for helping out!   
+  
  <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Commendations_Given.gif" width=700>
 
 
