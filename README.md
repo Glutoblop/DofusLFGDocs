@@ -20,7 +20,12 @@ There are 2 steps to using DofusLFG, the first step is to use the `/register` co
 
 Ankama do not provide an API, the only way for us to confirm that you own the Ankama account you are telling us  you own is to get you to add a unique code, DofusLFG walks you through this process:   
   
-<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Linking.gif" width=700>
+<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Linking.gif" width=700>  
+  
+Account Linking might be enforced inside different Discords because it allows anyone to look up a Discord members Dofus Characters to make sure they are who they say they are:  
+  
+  <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Info.gif" width=700>  
+
 
 ## Creating Events
 
