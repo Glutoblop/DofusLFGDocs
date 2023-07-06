@@ -1,4 +1,4 @@
-# Dofus LFG Discord Bot <img src="https://i.imgur.com/CuB4nUc.png" width=50 height=50/>
+# Dofus LFG Discord Bot <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/Icon.png" width=50 height=50/>
 Organise ingame Dofus activities with your Discord community, set the time, details and description of the type of help you want. 
 Let other Discord members jump in to help you out.  
 
@@ -9,29 +9,29 @@ No longer will spamming /r to hope someone else can see your requests for help. 
 ## Creating Events
 
 Start the process of creating an event by entering the `/createevent` command on a Discord with DofusLFG active.  
-<img src="https://images2.imgbox.com/c8/93/bofptwV5_o.gif" width=700>
+<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/CreateEvent.gif" width=700>
   
 Then follow the steps to build the event you want!  
-<img src="https://images2.imgbox.com/3f/60/a5jSLXL7_o.gif" width=700> 
+<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/FillOutTheForm.gif" width=700> 
   
 How many people do you need to help you?  
-<img src="https://images2.imgbox.com/cd/4f/hTxzY8J9_o.gif" width=700>  
+<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Add_Players.gif" width=700>  
   
  When do you want to start your event? Using DofusTime to help everyone stay synced.  
-<img src="https://images2.imgbox.com/ef/f1/WEzILqkX_o.gif" width=700>
+<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Set_Time.gif" width=700>
  
  Publish your event back to the Discord community you created it from!  
- <img src="https://images2.imgbox.com/63/fe/eTnYZvym_o.gif" width=700>  
+ <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Publish_Event.gif" width=700>  
    
  By default it will show up in the `lfg-events` channel:  
-  <img src="https://images2.imgbox.com/50/16/oO4tu5Vw_o.gif" width=700>
+  <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Add_To_Event.gif" width=700>
   
  
  ### Commendations
 After the event, make sure to commend your community members. Give each other praise for helping out!   
- <img src="https://images2.imgbox.com/40/d4/5e15P9FO_o.gif" width=700>
+ <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Commendations_Given.gif" width=700>
 
 
 
 --------------------------------------
-[<img src="https://images2.imgbox.com/1e/af/5YOLnqLf_o.png" width=50>](https://twitter.com/Glutoblop) [<img src="https://images2.imgbox.com/9e/6e/s5Llp32o_o.png" width=50>](https://www.buymeacoffee.com/glutoblop) 
+[<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/twitter_icon.png" width=50>](https://twitter.com/Glutoblop) [<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/buy_coffee.png" width=50>](https://www.buymeacoffee.com/glutoblop) 
