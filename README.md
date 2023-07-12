@@ -2,7 +2,7 @@
 Organise ingame Dofus activities with your Discord community, set the time, details and description of the type of help you want. 
 Let other Discord members jump in to help you out.  
 
-[<img src="https://i.imgur.com/gPdFMIN.png" width=300>](https://discord.com/api/oauth2/authorize?client_id=1112419871557431297&permissions=2415946832&scope=bot%20applications.commands)
+[<img src="https://i.imgur.com/gPdFMIN.png" width=300>](https://discord.com/api/oauth2/authorize?client_id=1112419871557431297&permissions=2415930448&scope=bot%20applications.commands)
 
 No longer will spamming /r to hope someone else can see your requests for help. Now just schedule an event for the time you will be on, and anyone else who is available at that time can hop in and join you!   
 
@@ -62,4 +62,4 @@ After the event, make sure to commend your community members. Give each other pr
 
 
 --------------------------------------
-[<img src="https://images2.imgbox.com/1e/af/5YOLnqLf_o.png" width=50>](https://twitter.com/Glutoblop) [<img src="https://images2.imgbox.com/9e/6e/s5Llp32o_o.png" width=50>](https://www.buymeacoffee.com/glutoblop) 
+[<img src="https://.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/twitter_icon.png" width=50>](https://twitter.com/Glutoblop) [<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/buy_coffee.png" width=50>](https://www.buymeacoffee.com/glutoblop) 
