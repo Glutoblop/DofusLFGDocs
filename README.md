@@ -29,7 +29,7 @@ Account Linking might be enforced inside different Discords because it allows an
 
 ## Creating Events
 
-Start the process of creating an event by entering the `/createevent` command on a Discord with DofusLFG active.  
+Start the process of creating an event by entering the `/createevent` command on a Discord with DofusLFG active inside the specified Dofus server and language channel provided. eg. `DOFUSLFG TAL KASHA #lfg-events-en` to start an English event for the Dofus Server Tal Kasha.  
   
 <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/CreateEvent.gif" width=700>
   
@@ -41,7 +41,7 @@ How many people do you need to help you?
   
 <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Add_Players.gif" width=700>  
   
- When do you want to start your event? Using DofusTime to help everyone stay synced.  
+ When do you want to start your event? Using the `'/register'` command you can specify your current TimeZone relative to UTC. You can see your difference between UTC from [HERE](https://www.worldtimeserver.com/current_time_in_UTC.aspx)
    
 <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Set_Time.gif" width=700>
  
@@ -62,4 +62,4 @@ After the event, make sure to commend your community members. Give each other pr
 
 
 --------------------------------------
-[<img src="https://.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/twitter_icon.png" width=50>](https://twitter.com/Glutoblop) [<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/buy_coffee.png" width=50>](https://www.buymeacoffee.com/glutoblop) 
+[<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/twitter_icon.png" width=50>](https://twitter.com/Glutoblop) [<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/buy_coffee.png" width=50>](https://www.buymeacoffee.com/glutoblop) 
