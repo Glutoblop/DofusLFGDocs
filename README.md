@@ -25,7 +25,7 @@ Features Included:
 #
   
   ### Full Package 
-The **Full Package** is DofusLFG will all its featured, this means allowing the bot more permissions so it can handle managing channels and roles it creates when you set it up.   
+The **Full Package** is DofusLFG with all its featured and tries to take the burden off of your when setting up the required channels and roles to manage the Events. This does come with the drawback of allowing the bot more permissions so it can handle managing channels and roles it creates when you set it up.   
 It does everything that **Lite** does but it creates and manages the LFG channels and roles for you, so you don't have to.    
 Full Package Features Include everything in Lite, plus:
 * Role Management, to receive notifications for Events that you are interested in.
