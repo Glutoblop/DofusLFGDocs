@@ -1,14 +1,38 @@
 # Dofus LFG Discord Bot <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/Icon.png" width=50 height=50/>
 Join the Official DofusLFG Discord:   
   
-[<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/join_discord.png" width=200>](https://www.discord.gg/VHf2vppsBf)
+[<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/join_discord.png" width=200>](www.google.com)
 ## 
+
 Organise ingame Dofus activities with your Discord community, set the time, details and description of the type of help you want. 
-Let other Discord members jump in to help you out.  
-
-[<img src="https://i.imgur.com/gPdFMIN.png" width=200>](https://discord.com/api/oauth2/authorize?client_id=1112419871557431297&permissions=2415930448&scope=bot%20applications.commands)
-
+Let other Discord members jump in to help you out.    
+  
 No longer will spamming /r to hope someone else can see your requests for help. Now just schedule an event for the time you will be on, and anyone else who is available at that time can hop in and join you!   
+
+### Bot Versions: Full Package and Lite
+The bot supports 2 ways it can help you manage your Dofus Discord community, **Full Package** or **Lite**.
+### Lite
+This is a barebones approach to DofusLFG and will allow you to customise how the bot interacts with your Discord server while at the same time giving the bot no additional permissions to access your Discord server.  
+This is best for larger Discord servers that just want to be able to dedicate 1 easy to use channel where you can communicate with the Bot, no mess no fuss.  
+Features Included:
+* Creating events in the designated channel (determined by you)
+* Reminder messages to all members who sign up to the event of its start time.
+* (Optional) Commendations to your teammates after Events have been completed.
+* (Optional) Linking Ankama Account to Discord
+
+  
+[<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/AddLite.png" width=300>](https://discord.com/api/oauth2/authorize?client_id=1112419871557431297&permissions=2147483648&scope=bot%20applications.commands)
+#
+  
+  ### Full Package 
+The **Full Package** is DofusLFG will all its featured, this means allowing the bot more permissions so it can handle managing channels and roles it creates when you set it up.   
+It does everything that **Lite** does but it creates and manages the LFG channels and roles for you, so you don't have to.    
+Full Package Features Include everything in Lite, plus:
+* Role Management, to receive notifications for Events that you are interested in.
+* Automatic Voice Channel creation for each event, which is then automatically deleted once its no longer needed.
+* Automatic Channel Setup from a single command for Dofus2, DofusTouch or DofusRetro.
+
+[<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/AddFullPackage.png" width=300>](https://discord.com/api/oauth2/authorize?client_id=1112419871557431297&permissions=2415930448&scope=bot%20applications.commands)
 
 ## Registering To DofusLFG
 There are 2 steps to using DofusLFG, the first step is to use the `/register` command, this will tell DofusLFG that your discord account exists.  
