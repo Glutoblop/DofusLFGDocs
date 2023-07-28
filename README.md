@@ -24,7 +24,7 @@ Features Included:
 [<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/AddLite.png" width=320>](https://discord.com/api/oauth2/authorize?client_id=1112419871557431297&permissions=21474836415930448&scope=bot%20applications.commands)
 
 How to Setup DofusLFG Lite in your Discord: 2minutes  
-[<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Lite_Tutorial_Thumbnail.png" width=600>](https://youtu.be/ScISx_5oAC4) 
+[<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Lite_Tutorial_Thumbnail.png" width=340>](https://youtu.be/ScISx_5oAC4) 
 
 #
   
