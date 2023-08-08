@@ -1,7 +1,7 @@
 # Dofus LFG Discord Bot <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/Icon.png" width=50 height=50/>
 Join the Official DofusLFG Discord:   
   
-[<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/join_discord.png" width=600>](https://www.discord.gg/VHf2vppsBf)
+[<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/join_discord.png" width=00>](https://discord.gg/Ds76gqdu)
 ## 
 
 Organise ingame Dofus activities with your Discord community, set the time, details and description of the type of help you want. 
