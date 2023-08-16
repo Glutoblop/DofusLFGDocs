@@ -35,9 +35,12 @@ Full Package Features Include everything in Lite, plus:
 * Ro
 No longer will spamming /r to hope someone else can see your requests for help. Now just schedule Management, to receive notifications for Events that you are interested in.
 * Automatic Voice Channel creation for each event, which is then automatically deleted once its no longer needed.
-* Automatic Channel Setup from a single command for Dofus2, DofusTouch or DofusRetro.
-
-[<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/AddFullPackage.png" width=300>](https://discord.com/api/oauth2/authorize?client_id=1112419871557431297&permissions=248&scope=bot%20applications.commands) event for the time you will be on, and anyone else who is available at that time can hop in and join you!   
+* Automatic Channel Setup from a single command for Dofus2, DofusTouch or DofusRetro.  
+  
+  
+[<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/AddFullPackage.png" width=300>](https://discord.com/api/oauth2/authorize?client_id=1112419871557431297&permissions=248&scope=bot%20applications.commands)   
+  
+  event for the time you will be on, and anyone else who is available at that time can hop in and join you!   
 
 ## Registering To DofusLFG
 There are 2 steps to using DofusLFG, the first step is to use the `/register` command, this will tell DofusLFG that your discord account exists.  
