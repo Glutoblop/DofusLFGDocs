@@ -21,7 +21,7 @@ Features Included:
 * (Optional) Linking Ankama Account to Discord
 
   
-[<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/AddLite.png" width=320>](https://discord.com/api/oauth2/authorize?client_id=1112419871557431297&permissions=21474836415930448&scope=bot%20applications.commands)
+[<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/AddLite.png" width=320>](https://discord.com/api/oauth2/authorize?client_id=1112419871557431297&permissions=2147483648&scope=bot)
 
 How to Setup DofusLFG Lite in your Discord: 2minutes  
 [<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Lite_Tutorial_Thumbnail.png" width=340>](https://youtu.be/ScISx_5oAC4) 
@@ -38,7 +38,7 @@ No longer will spamming /r to hope someone else can see your requests for help. 
 * Automatic Channel Setup from a single command for Dofus2, DofusTouch or DofusRetro.  
   
   
-[<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/AddFullPackage.png" width=300>](https://discord.com/api/oauth2/authorize?client_id=1112419871557431297&permissions=248&scope=bot%20applications.commands)   
+[<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/AddFullPackage.png" width=300>](https://discord.com/api/oauth2/authorize?client_id=1112419871557431297&permissions=21474836415930448&scope=bot%20applications.commands)   
   
   event for the time you will be on, and anyone else who is available at that time can hop in and join you!   
 
