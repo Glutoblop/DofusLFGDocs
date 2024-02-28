@@ -1,4 +1,4 @@
-# Dofus LFG Discord Bot <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/Icon.png" width=50 height=50/>
+﻿# Dofus LFG Discord Bot <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/Icon.png" width=50 height=50/>
 Join the Official DofusLFG Discord:   
   
 [<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/join_discord.png" width=600>](https://discord.gg/9pRdKN3tug)
@@ -21,7 +21,7 @@ Features Included:
 * (Optional) Linking Ankama Account to Discord
 
   
-[<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/AddLite.png" width=320>](https://discord.com/api/oauth2/authorize?client_id=1112419871557431297&permissions=2147483648&scope=bot)
+[<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/AddLite.png" width=320>](https://discord.com/oauth2/authorize?client_id=1112419871557431297&permissions=2147485760&scope=bot)
 
 How to Setup DofusLFG Lite in your Discord: 2minutes  
 [<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Lite_Tutorial_Thumbnail.png" width=340>](https://youtu.be/ScISx_5oAC4) 
@@ -99,3 +99,4 @@ After the event, make sure to commend your community members. Give each other pr
 
 --------------------------------------
 [<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/twitter_icon.png" width=50>](https://twitter.com/Glutoblop) [<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/buy_coffee.png" width=50>](https://www.buymeacoffee.com/glutoblop) [<img src="https://images-eds-ssl.xboxlive.com/image?url=Q_rwcVSTCIytJ0KOzcjWTYl.n38D8jlKWXJx7NRJmQKBAEDCgtTAQ0JS02UoaiwRCHTTX1RAopljdoYpOaNfVf5nBNvbwGfyR5n4DAs0DsOwxSO9puiT_GgKqinHT8HsW8VYeiiuU1IG3jY69EhnsQ--&format=source&w=120" width=50>](https://discord.gg/VHf2vppsBf) 
+
