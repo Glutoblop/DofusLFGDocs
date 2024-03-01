@@ -24,7 +24,8 @@ Features Included:
 [<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/AddLite.png" width=320>](https://discord.com/oauth2/authorize?client_id=1112419871557431297&permissions=2147485760&scope=bot)
 
 ### Lite+
-Allows the use of role management with lfg-register
+Allows the use of role management with lfg-register  
+
 [<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/AddLite.png" width=320>](https://discord.com/oauth2/authorize?client_id=1112419871557431297&permissions=2415929408&scope=bot)
 
 How to Setup DofusLFG Lite in your Discord: 2minutes  
