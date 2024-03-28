@@ -9,36 +9,13 @@ Let other Discord members jump in to help you out.
   
 No longer will spamming /r to hope someone else can see your requests for help. Now just schedule an event for the time you will be on, and anyone else who is available at that time can hop in and join you!   
 
-### Bot Versions: Full Package and Lite
-The bot supports 2 ways it can help you manage your Dofus Discord community, **Full Package** or **Lite**.
-### Lite
-This is a barebones approach to DofusLFG and will allow you to customise how the bot interacts with your Discord server while at the same time giving the bot no additional permissions to access your Discord server.  
-This is best for larger Discord servers that just want to be able to dedicate 1 easy to use channel where you can communicate with the Bot, no mess no fuss.  
+### Installing The Bot
 Features Included:
 * Creating events in the designated channel (determined by you)
 * Reminder messages to all members who sign up to the event of its start time.
 * (Optional) Commendations to your teammates after Events have been completed.
 * (Optional) Linking Ankama Account to Discord
-
-  
-[<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/AddLite.png" width=320>](https://discord.com/oauth2/authorize?client_id=1112419871557431297&permissions=2147485760&scope=bot)
-
-### Lite+
-Allows the use of role management with lfg-register  
-
-[<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/AddLite.png" width=320>](https://discord.com/oauth2/authorize?client_id=1112419871557431297&permissions=2416076864&scope=bot)
-
-How to Setup DofusLFG Lite in your Discord: 2minutes  
-[<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Lite_Tutorial_Thumbnail.png" width=340>](https://youtu.be/ScISx_5oAC4) 
-
-#
-  
-  ### Full Package 
-The **Full Package** is DofusLFG with all its featured and tries to take the burden off of you when setting up the required channels and roles to manage the Events. This does come with the drawback of allowing the bot more permissions so it can handle managing channels and roles it creates when you set it up.   
-It does everything that **Lite** does but it creates and manages the LFG channels and roles for you, so you don't have to.    
-Full Package Features Include everything in Lite, plus:
-* Ro
-No longer will spamming /r to hope someone else can see your requests for help. Now just schedule Management, to receive notifications for Events that you are interested in.
+* No longer will spamming /r to hope someone else can see your requests for help. Now just schedule Management, to receive notifications for Events that you are interested in.
 * Automatic Voice Channel creation for each event, which is then automatically deleted once its no longer needed.
 * Automatic Channel Setup from a single command for Dofus2, DofusTouch or DofusRetro.  
   
