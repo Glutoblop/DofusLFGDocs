@@ -1,4 +1,4 @@
-﻿#Dofus LFG Discord Bot <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/Icon.png" width=50 height=50/>
+# Dofus LFG Discord Bot  ﻿<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/Icon.png" width=50 height=50/>
 Join the Home Of English Dofus and use LFG bot and many others to help your play time in Dofus: https://www.discord.gg/englishdofus
 
 [<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/refs/heads/main/res/Icon/add_to_discord.png" width=550>](https://discord.com/oauth2/authorize?client_id=1112419871557431297)
