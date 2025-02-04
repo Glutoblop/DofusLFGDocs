@@ -1,84 +1,56 @@
-﻿# Dofus LFG Discord Bot <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/Icon.png" width=50 height=50/>
-Join the Official DofusLFG Discord:   
-  
-[<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/join_discord.png" width=600>](https://discord.gg/9pRdKN3tug)
-## 
+﻿#Dofus LFG Discord Bot <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/Icon.png" width=50 height=50/>
+Join the Home Of English Dofus and use LFG bot and many others to help your play time in Dofus: https://www.discord.gg/englishdofus
 
-Organise ingame Dofus activities with your Discord community, set the time, details and description of the type of help you want. 
-Let other Discord members jump in to help you out.    
-  
-No longer will spamming /r to hope someone else can see your requests for help. Now just schedule an event for the time you will be on, and anyone else who is available at that time can hop in and join you!   
+[<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/refs/heads/main/res/Icon/add_to_discord.png" width=550>](https://discord.com/oauth2/authorize?client_id=1112419871557431297)
 
-### Installing The Bot
-Features Included:
-* Creating events in the designated channel (determined by you)
-* Reminder messages to all members who sign up to the event of its start time.
-* (Optional) Commendations to your teammates after Events have been completed.
-* (Optional) Linking Ankama Account to Discord
-* No longer will spamming /r to hope someone else can see your requests for help. Now just schedule Management, to receive notifications for Events that you are interested in.
-* Automatic Voice Channel creation for each event, which is then automatically deleted once its no longer needed.
-* Automatic Channel Setup from a single command for Dofus2, DofusTouch or DofusRetro.  
+ # Discord Admin Setup
+The new version of the LFG bot is stream lined to remove as many permissions for the bot as possible!  
+I want everyone who wants to LFG with their community to do so without any concerns for what a bot is receiving in their Discords.  
   
-  
-[<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/AddFullPackage.png" width=300>](https://discord.com/api/oauth2/authorize?client_id=1112419871557431297&permissions=21474836415930448&scope=bot%20applications.commands)   
-  
-  event for the time you will be on, and anyone else who is available at that time can hop in and join you!   
+  These are the base permissions the bot has, all it can do is create and delete public threads.
+ <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/refs/heads/main/res/permissions.png" width=600>
 
-## Registering To DofusLFG
-There are 2 steps to using DofusLFG, the first step is to use the `/register` command, this will tell DofusLFG that your discord account exists.  
-  
-<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Register.gif" width=700>  
-  
-  After this we have an optional process of *Linking* your Discord account to each Ankama account you have Dofus Characters on.    
+### Manage threads is an optional permission, without it the bot will not clean up the threads, but it will function fine. 
 
-      // IMPORTANT - NOTICE 
-      This process does not require you to give DofusLFG any of your Ankama/Dofus login information.  
-      If anyone ever asks for your login information they are only trying to steal your accounts. 
-      Never give your account information away.  
+In order to mitigate anymore concerns, after adding the bot you should restrict its access to only the channels you want it to see.
 
-Ankama do not provide an API, the only way for us to confirm that you own the Ankama account you are telling us  you own is to get you to add a unique code, DofusLFG walks you through this process:   
-  
-<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Linking.gif" width=700>  
-  
-Account Linking might be enforced inside different Discords because it allows anyone to look up a Discord members Dofus Characters to make sure they are who they say they are:  
-  
-  <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Info.gif" width=700>  
+This means going into the Integrations settings of your server and telling the bot it can only see the channels you want it to see. 
 
+Inside The International Pub we have done this by restricting it to only see the LFG channels for each supported Dofus server:
 
-## Creating Events
-
-Start the process of creating an event by entering the `/createevent` command on a Discord with DofusLFG active inside the specified Dofus server and language channel provided. eg. `DOFUSLFG TAL KASHA #lfg-events-en` to start an English event for the Dofus Server Tal Kasha.  
-  
-<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/CreateEvent.gif" width=700>
-  
-Then follow the steps to build the event you want!  
-  
-<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/FillOutTheForm.gif" width=700> 
-  
-How many people do you need to help you?  
-  
-<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Add_Players.gif" width=700>  
-  
- When do you want to start your event? Using the `'/register'` command you can specify your current TimeZone relative to UTC. You can see your difference between UTC from [HERE](https://www.worldtimeserver.com/current_time_in_UTC.aspx)
-   
-<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Set_Time.gif" width=700>
+ <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/refs/heads/main/res/intergration.png" width=600>
  
- Publish your event back to the Discord community you created it from!  
-   
- <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Publish_Event.gif" width=700>  
-   
- By default it will show up in the `lfg-events` channel:  
-   
-  <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Add_To_Event.gif" width=700>
-  
- 
- ### Commendations
-After the event, make sure to commend your community members. Give each other praise for helping out!   
-  
- <img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Commendations_Given.gif" width=700>
+I highly recommend this  because it not only allows the bot to run faster for you, but it also means you have full control knowing that these channels are bot controlled and the bot is definitely not allowed to see manage threads anywhere else. 
 
+# Setup Bot For Use
+
+The loop of the bot is pretty simple, its intended purpose is to:
+```
+Create public threads inside channels its been assigned when people 
+mention the roles been told to look out for.
+
+If it has the ManageThreads permission it will then delete these threads, 
+after asking if the Thread is still required and getting no response. 
+```
+This should go something like this: 
+* Monitor channels that you tell it to using the `/add_lfg_channel` command
+    * This command should be used inside the text channel you want to mark for use as LFG only
+    * For best results also enable slow mode inside this channel between 1 - 5 minutes
+    * You can mark as many channels as you want for LFG
+* Add LFG roles that people can use to notify other members of their need for help
+   * Ensure you enable "mention this role" in the LFG role permissions.
+* Use the `/add_lfg_role` command to assign an existing server role as an LFG role
+    * This command can be done anywhere, it marks the roles as LFG roles globally on the Discord
+* Discord members can now @mention the role they want request help from inside the #lfg-channel you assigned and the bot will automatically create a thread on this LFG message.
+    * Slow mode is not active inside the Public Thread, so the LFG channel will become a list of Threads with descriptions of the help required, and inside the threads will be a discussion between players organising when, where and how to help each other. 
+    * Threads automatically archive themselves when not used for a while, or the bot will automatically delete them after a few hours of inactivity if no one responds to the bot when it asks if it can be deleted. 
+
+# GOOD LUCK AND LFG
+I hope everyone enjoys being able to organise their Dofus communities abit easier!
+If you have any feature requests or feedback then please come visit me in the DofusLFG Discord and leave the feedback there:
+https://discord.com/invite/9pRdKN3tug
 
 
 --------------------------------------
-[<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/twitter_icon.png" width=50>](https://twitter.com/Glutoblop) [<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/buy_coffee.png" width=50>](https://www.buymeacoffee.com/glutoblop) [<img src="https://images-eds-ssl.xboxlive.com/image?url=Q_rwcVSTCIytJ0KOzcjWTYl.n38D8jlKWXJx7NRJmQKBAEDCgtTAQ0JS02UoaiwRCHTTX1RAopljdoYpOaNfVf5nBNvbwGfyR5n4DAs0DsOwxSO9puiT_GgKqinHT8HsW8VYeiiuU1IG3jY69EhnsQ--&format=source&w=120" width=50>](https://discord.gg/VHf2vppsBf) 
+[<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/twitter_icon.png" width=50>](https://twitter.com/Glutoblop) [<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/buy_coffee.png" width=50>](https://www.buymeacoffee.com/glutoblop) [<img src="https://raw.githubusercontent.com/Glutoblop/DofusLFGDocs/main/res/Icon/join_discord.png" width=150>](https://www.discord.gg/englishdofus)
 
